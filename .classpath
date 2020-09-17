@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/selenium/drivers/jar_files/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="C:/selenium/drivers/jar_files/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ss185743/Downloads/poi-ooxml-3.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ss185743/Downloads/poi-2.5.1-sources.jar/poi-2.5.1-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
